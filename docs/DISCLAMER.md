@@ -1,0 +1,7 @@
+# DISCLAIMER
+
+The information presented in this research paper serves as a proof of concept for a novel form of Telemedicine and Remote Patient Monitoring. The content within this document is intended to explore and demonstrate the feasibility of the proposed concept. Readers are hereby advised that this research relies on references to other research papers, documents, and codes related to the specific processes involved in this innovative approach to healthcare delivery.
+
+The authors wish to emphasize that this research is not exhaustive, and the proof of concept presented herein builds upon existing knowledge and methodologies documented in external sources. The incorporation of references to other research papers, documents, and codes is crucial for contextualizing the development of the proposed Telemedicine and Remote Patient Monitoring model.
+
+Readers are encouraged to consult the cited works for a comprehensive understanding of the background, methodologies, and technologies involved in the conceptualization and implementation of the new form of Telemedicine and Remote Patient Monitoring presented in this research paper. The authors do not claim sole ownership of the ideas or techniques discussed and acknowledge the collaborative nature of scientific advancement within the field.

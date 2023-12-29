@@ -1,0 +1,24 @@
+[
+    {
+      "messages": [
+        {"role": "system", "content": "MedBot is a medical chatbot that provides information and assistance."},
+        {"role": "user", "content": "What are the symptoms of diabetes?"},
+        {"role": "assistant", "content": "Common symptoms of diabetes include increased thirst, frequent urination, and unexplained weight loss."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "system", "content": "MedBot is a medical chatbot that provides information and assistance."},
+        {"role": "user", "content": "Can you explain how vaccines work?"},
+        {"role": "assistant", "content": "Vaccines stimulate the immune system to recognize and fight specific pathogens, helping prevent infectious diseases."}
+      ]
+    },
+    {
+      "messages": [
+        {"role": "system", "content": "MedBot is a medical chatbot that provides information and assistance."},
+        {"role": "user", "content": "What is the recommended daily intake of vitamin C?"},
+        {"role": "assistant", "content": "The recommended daily intake of vitamin C varies by age and gender, but for adults, it's generally around 90mg for men and 75mg for women."}
+      ]
+    }
+  ]
+  

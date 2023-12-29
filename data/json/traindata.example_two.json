@@ -1,0 +1,14 @@
+[
+    {
+        "prompt": "Describe the symptoms and medical history of a patient with hypertension.",
+        "completion": "A patient presents with elevated blood pressure, consistently measuring above 140/90 mm Hg. The individual has a history of sedentary lifestyle, high-sodium diet, and a family history of hypertension. Additionally, the patient reports occasional headaches and dizziness. Provide recommendations for lifestyle modifications and prescribe antihypertensive medication if necessary."
+    },
+    {
+        "prompt": "Explain the pathophysiology of diabetes mellitus.",
+        "completion": "Diabetes mellitus is a metabolic disorder characterized by hyperglycemia resulting from defects in insulin secretion, insulin action, or both. In type 1 diabetes, there is an autoimmune destruction of pancreatic beta cells leading to absolute insulin deficiency. Type 2 diabetes involves insulin resistance and relative insulin deficiency. Describe the mechanisms involved and discuss the complications associated with uncontrolled diabetes, emphasizing the importance of glycemic control through medication, diet, and exercise."
+    },
+    {
+        "prompt": "Outline the procedure for a routine physical examination.",
+        "completion": "A routine physical examination involves a comprehensive assessment of the patient's overall health. Begin with a thorough medical history, followed by vital signs measurement, inspection, palpation, percussion, and auscultation. Perform a head-to-toe examination, including the cardiovascular, respiratory, gastrointestinal, musculoskeletal, and neurological systems. Document any abnormalities, discuss findings with the patient, and recommend further diagnostic tests or interventions as needed."
+    }
+]

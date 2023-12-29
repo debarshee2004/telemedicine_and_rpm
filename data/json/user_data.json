@@ -1,0 +1,97 @@
+{
+    "patient": {
+      "id": "123456",
+      "name": "John Doe",
+      "date_of_birth": "1980-01-01",
+      "gender": "Male",
+      "address": {
+        "street": "123 Main St",
+        "city": "Cityville",
+        "state": "CA",
+        "zip_code": "12345"
+      },
+      "contact": {
+        "email": "john.doe@example.com",
+        "phone": "555-1234"
+      }
+    },
+    "family_member": {
+      "name": "Jane Doe",
+      "relationship": "Spouse",
+      "date_of_birth": "1982-05-15",
+      "contact": {
+        "email": "jane.doe@example.com",
+        "phone": "555-5678"
+      }
+    },
+    "health_records": {
+      "blood_type": "A+",
+      "allergies": ["Penicillin", "Pollen"],
+      "medical_conditions": ["Hypertension", "Diabetes"]
+    },
+    "medications": [
+      {
+        "name": "Medication A",
+        "dosage": "10mg",
+        "frequency": "Twice daily",
+        "start_date": "2022-01-01",
+        "prescribing_doctor": "Dr. Smith"
+      },
+      {
+        "name": "Medication B",
+        "dosage": "20mg",
+        "frequency": "Once daily",
+        "start_date": "2022-05-01",
+        "prescribing_doctor": "Dr. Johnson"
+      }
+    ],
+    "doctors": [
+      {
+        "name": "Dr. Smith",
+        "specialty": "Cardiologist",
+        "contact": {
+          "email": "dr.smith@example.com",
+          "phone": "555-9999"
+        }
+      },
+      {
+        "name": "Dr. Johnson",
+        "specialty": "Endocrinologist",
+        "contact": {
+          "email": "dr.johnson@example.com",
+          "phone": "555-8888"
+        }
+      }
+    ],
+    "insurance": {
+      "provider": "HealthCare Insurance",
+      "policy_number": "ABC123",
+      "group_number": "XYZ789",
+      "expiration_date": "2023-12-31"
+    },
+    "hospitals": [
+      {
+        "name": "City General Hospital",
+        "location": "Cityville",
+        "treatments": [
+          {
+            "date": "2022-02-15",
+            "procedure": "Appendectomy",
+            "doctor": "Dr. Brown"
+          }
+        ]
+      },
+      {
+        "name": "County Medical Center",
+        "location": "Countytown",
+        "treatments": [
+          {
+            "date": "2022-08-10",
+            "procedure": "Cardiac Angioplasty",
+            "doctor": "Dr. Smith"
+          }
+        ]
+      }
+    ]
+  }
+  
